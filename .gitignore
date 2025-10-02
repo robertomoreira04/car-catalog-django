@@ -1,0 +1,6 @@
+venv
+db.sqlite3
+app
+cars/__pycache__
+cars/migrations
+media
