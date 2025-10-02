@@ -4,3 +4,4 @@ app
 cars/__pycache__
 cars/migrations
 media
+cars/__init__.py
