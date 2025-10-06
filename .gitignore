@@ -1,7 +1,8 @@
-venv
-db.sqlite3
-app
-cars/__pycache__
-cars/migrations
-media
+venv 
+app/__init__.py
+app/__pycache__/
+cars/__pycache__/
 cars/__init__.py
+cars/migrations/
+media/cars/
+db.sqlite3
