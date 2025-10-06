@@ -6,3 +6,5 @@ cars/__init__.py
 cars/migrations/
 media/cars/
 db.sqlite3
+app/asgi.py
+app/wsgi.py
