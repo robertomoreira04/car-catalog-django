@@ -8,3 +8,4 @@ media/cars/
 db.sqlite3
 app/asgi.py
 app/wsgi.py
+app/settings.py
