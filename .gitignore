@@ -9,3 +9,11 @@ db.sqlite3
 app/asgi.py
 app/wsgi.py
 app/settings.py
+accounts/__init__.py
+accounts/__pycache__/__init__.cpython-312.pyc
+accounts/__pycache__/admin.cpython-312.pyc
+accounts/__pycache__/apps.cpython-312.pyc
+accounts/__pycache__/models.cpython-312.pyc
+accounts/__pycache__/views.cpython-312.pyc
+accounts/migrations/__pycache__/__init__.cpython-312.pyc
+accounts/migrations/__init__.py
